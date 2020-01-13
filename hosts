@@ -1,3 +1,4 @@
+#和谐
 #Adobe
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 lm.licenses.adobe.com
@@ -18,12 +19,7 @@
 127.0.0.1 wwis-dubc1-vip60.adobe.com 
 127.0.0.1 activate-sjc0.adobe.com
 #Adobe End
-#Free ss
-104.18.57.236 free-ss.site
-#Free ss End
-#Potplayer
-211.231.108.181 potplayer.daum.net
-#Potplayer End
+
 #UltraEdit
 127.0.0.1 licensing.ultraedit.com
 127.0.0.1 licensing1.ultraedit.com
@@ -31,7 +27,19 @@
 127.0.0.1 swupdate.ultraedit.com
 127.0.0.1 66.150.98.71
 #UltraEdit End
+#和谐 End
+
+#防污染
+#Free ss
+104.18.57.236 free-ss.site
+#Free ss End
+
+#Potplayer
+211.231.108.181 potplayer.daum.net
+#Potplayer End
+
 178.128.123.58 waifulabs.com
+
 141.101.120.55 nhentai.net
 198.255.82.50 t.nhentai.net
 198.255.82.50 i.nhentai.net
@@ -40,20 +48,24 @@
 152.195.56.202 www.iobit.com
 66.254.114.41 www.pornhub.com
 66.254.114.41 www.pornhub.com
+
 #Yande
 188.165.205.120 yande.re
 188.165.205.120 assets.yande.re
 51.77.247.63 files.yande.re
 #Yande End
+
 104.31.71.152 static.hentai-image.com
 104.31.71.152 static2.hentai-image.com
 104.31.71.152 static3.hentai-image.com
 104.31.71.152 static4.hentai-image.com
 104.31.71.152 static6.hentai-image.com
 104.31.71.152 static8.hentai-image.com
+
 #Gelbooru
 104.27.135.180 www.gelbooru.com
 67.202.114.141 gelbooru.com
 120.197.89.238 simg3.gelbooru.com
 104.27.135.180 img2.gelbooru.com
 #Gelbooru End
+#防污染 End
